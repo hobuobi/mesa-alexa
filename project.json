@@ -1,0 +1,10 @@
+{
+  "name": "alexa",
+  "description": "I am a parrot.",
+  "memory": 128,
+  "timeout": 5,
+  "role": "arn:aws:iam::575898294319:role/service-role/alexa-parrot",
+  "environment": {
+    "GOOG_API_KEY": "AIzaSyBaMa-Q7HH3pv8riv5HNmvRjTIwMiVp3vA"
+  }
+}
